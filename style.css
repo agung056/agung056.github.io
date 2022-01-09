@@ -39,12 +39,16 @@ section {
   margin-bottom: 5px;
 }
 
-.card-header {
+#cardbody {
+  border: 0px;
+}
+
+#profile {
+  background-color: white;
+}
+
+#judskil {
   padding-top: 10px;
   padding-bottom: 70px;
   padding-left: 0px;
-}
-
-#cardbody {
-  border: 0px;
 }
